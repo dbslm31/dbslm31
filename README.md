@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/dalila-benselim">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Malt-red?style=for-the-badge&logo=data:https://cdn.cookielaw.org/logos/05ac99e5-12b5-453a-9d34-cab6cc8b270a/a2ec2e66-d97f-4e33-bc95-66bed1fa8446/malt_picto_color.png&logoColor=white" alt="Malt Badge"/>
-  </a>
   </div>
   <div id="txt-intro"  align="center">
 <h1>## Welcome stranger 🖖🏽</h1>
@@ -60,7 +57,7 @@ Hi ! My name is Dalila and I'm a junior Full-stack Developer from France 👩�
 
 ---
 ## 🤪 Fun facts about me : 
-- ⚡️ I made my first weebsite at 13 years old & it was an Harry Potter Webzine
+- ⚡️ I made my first website at 13 years old & it was an Harry Potter Webzine
 - 🧋 I collect teas from around the world but I'm always going for coffee
 - 💃🏻 I can dance salsa, bachata and kizomba
 
