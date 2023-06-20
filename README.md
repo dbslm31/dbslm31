@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Hi ! My name is Dalila and I'm a junior Full-stack Developer from France 👩🏽‍💻
 - 🔎 I'm currently looking for a full-time job as Full-stack or Frontend developer 
 - 🎨 I am a former graphic and motion designer who fell in love with coding
-- 🤓 I am currently learning Java 
+- 🤓 I am currently learning Python and cybersecurity 
 
 ---
 ## ✨ Languages and tools: 
