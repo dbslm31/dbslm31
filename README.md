@@ -40,11 +40,12 @@ Hi ! My name is Dalila and I'm a junior Developer from France 👩🏽‍💻
 ## ✨ More about me : 
 👋🏽 I am Dalila, an application designer and developer specializing in React.js and Node.js, with a solid foundation in UI/UX design thanks to my background as a graphic designer.
 
-👩🏽🎓 My Journey
+###  👩🏽🎓 My Journey
 After several years as a freelance graphic designer, I decided to train in web development to broaden my skill set. In January 2023, I completed my first training with Open Classrooms, where I acquired skills in front-end development (Vanilla JavaScript, React.js) and back-end development (Node.js, MongoDB). This allowed me to join an Application Designer and Developer training program (admited), where I am enhancing my skills in design and project management. I also explored new stacks like Angular, Typescript, Nest.js, Java Spring Boot et Symfony.
 
-🚀 My Upcoming Challenges
+### 🚀 My Upcoming Challenges
 Passionate about cybersecurity, I completed a bootcamp focused on secure development and continue to integrate security practices into my projects.I am currently preparing for several Qualys certifications. I am also learning to use AWS for application development and hosting.
+
 ---
 ## ✨ Languages and tools: 
 <div>
