@@ -31,25 +31,37 @@ Here are some ideas to get you started:
 ---
 ## ✨ Get to know me : 
 
-Hi ! My name is Dalila and I'm a junior Full-stack Developer from France 👩🏽‍💻
-- 🔎 I'm currently looking for a full-time job as Full-stack or Frontend developer 
+Hi ! My name is Dalila and I'm a junior Developer from France 👩🏽‍💻
+- 🔎 I'm currently looking for a full-time job as Backend or Frontend developer 
 - 🎨 I am a former graphic and motion designer who fell in love with coding
 - 🤓 I am currently learning Python and cybersecurity 
 
+---
+## ✨ More about me : 
+👋🏽 I am Dalila, an application designer and developer specializing in React.js and Node.js, with a solid foundation in UI/UX design thanks to my background as a graphic designer.
+
+👩🏽🎓 My Journey
+After several years as a freelance graphic designer, I decided to train in web development to broaden my skill set. In January 2023, I completed my first training with Open Classrooms, where I acquired skills in front-end development (Vanilla JavaScript, React.js) and back-end development (Node.js, MongoDB). This allowed me to join an Application Designer and Developer training program (admited), where I am enhancing my skills in design and project management. I also explored new stacks like Angular, Typescript, Nest.js, Java Spring Boot et Symfony.
+
+🚀 My Upcoming Challenges
+Passionate about cybersecurity, I completed a bootcamp focused on secure development and continue to integrate security practices into my projects.I am currently preparing for several Qualys certifications. I am also learning to use AWS for application development and hosting.
 ---
 ## ✨ Languages and tools: 
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg"  title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java Spring Boot" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"  title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
 
 </div>
 
